@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+
+# local dev server
+.server.log
+.server.pid
+
+# generated screenshots (build output, not source)
+screenshots/
+
+# tool metadata
+.freebuff/
+.cloud-attachments/
+.vercel
