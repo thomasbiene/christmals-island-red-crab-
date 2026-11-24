@@ -14,10 +14,10 @@ window.SLIDES = [
     subtitle: "A fascinating land crab",
     meta: "Karl von Römer · 9a",
     image: {
-      src: "images/hero.jpg",
-      alt: "Thousands of red crabs crossing a road on Christmas Island",
+      src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Besuch_beim_Drachenlord.jpg/1280px-Besuch_beim_Drachenlord.jpg",
+      alt: "Drachenlord (Rainer Winkler) sitting at a table with posters and autograph cards",
     },
-    credit: "Photo: Chris Bray / Wikimedia Commons (CC BY-SA 4.0)",
+    credit: "Photo: Julia Seeliger / Wikimedia Commons (CC0)",
   },
 
   /* 02 — overview */
@@ -252,6 +252,10 @@ window.SLIDES = [
           {
             label: "Chris Bray — Dolly Beach, Indian Ocean (CC BY-SA 4.0)",
             href: "https://commons.wikimedia.org/wiki/File:Dolly_Beach,_Christmas_Island.jpg",
+          },
+          {
+            label: "Julia Seeliger — Drachenlord (CC0)",
+            href: "https://commons.wikimedia.org/wiki/File:Besuch_beim_Drachenlord.jpg",
           },
         ],
       },
